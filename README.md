@@ -7,7 +7,7 @@
  the usage of murder as a plot element in the script and further gives insight into the evolution of plot elements 
  throughout years.
  
- ![Alt text](/movies research/Screenshot 2020-03-16 at 3.33.59 PM.png?raw=true "Screenshot 1")
+ ![Screenshot](/movies research/Screenshot 2020-03-16 at 3.33.59 PM.png?raw=true "Screenshot 1")
  
- ![Alt text](/movies research/Screenshot 2020-03-16 at 3.34.25 PM.png?raw=true "Screenshot 2")
+ ![Screenshot](/movies research/Screenshot 2020-03-16 at 3.34.25 PM.png?raw=true "Screenshot 2")
 
