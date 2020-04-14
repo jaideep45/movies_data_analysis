@@ -7,7 +7,12 @@
  the usage of murder as a plot element in the script and further gives insight into the evolution of plot elements 
  throughout years.
  
- ![Screenshot](/movies research/Screenshot 2020-03-16 at 3.33.59 PM.png?raw=true "Screenshot 1")
+ SCREENSHOTS:
  
- ![Screenshot](/movies research/Screenshot 2020-03-16 at 3.34.25 PM.png?raw=true "Screenshot 2")
+ <div align="center">
+    <img src="/screenshots/screenshot1.png" width="600px"</img> 
+    <img src="/screenshots/screenshot2.png" width="600px"</img> 
+</div>
+ 
+ 
 
