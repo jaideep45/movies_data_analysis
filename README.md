@@ -4,6 +4,8 @@ element in movie plots throughout the years.
  
   The idea was that a threshold frequency of the word like “murder” would reflect the usage of murder as a plot element in the script and further gives insight into the evolution of plot elements 
 throughout years.
+
+Host a simpleHTTP server and run index.php.
  
  SCREENSHOTS:
  
